@@ -47,6 +47,6 @@ sudo systemctl daemon-reload
 # 步骤 5 - 重启
 # ################################################################ 
 sleep  5s
-sudo shutdown -r now 
+sudo reboot
 
 
